@@ -24,7 +24,7 @@ body {
   color: var(--text);
   background:
     linear-gradient(135deg, rgba(4, 11, 22, 0.9), rgba(11, 20, 36, 0.9)),
-    url("a.png") center/cover no-repeat fixed;
+    url("https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat fixed;
 }
 
 body::before {
